@@ -1,4 +1,5 @@
 ahihi
+bhihi
 # TestConflictC
 test conflict
 1 + 2
