@@ -1,2 +1,2 @@
-# TestConflict
+# TestConflictB
 test conflict
